@@ -1,1 +1,1 @@
-a script that runs a C filethrough the preprocessor 
+script that compiles a C file but does not link
