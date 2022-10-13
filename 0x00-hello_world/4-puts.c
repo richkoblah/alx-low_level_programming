@@ -1,12 +1,13 @@
 #include <stdio.h>
 /**
-The main acts as an entry point for the program
- **/ 
-int main (void)
+*main is a function that intiates the program
+*return : Returns 0 by deefault
+ */
+
+int main(void)
 {
-	puts("Programming is like building a multilingual puzzle\n");
-	return 0;
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
+
 
 }
-
-
