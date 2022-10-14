@@ -2,10 +2,13 @@
 #include <time.h>
 #include <stdio.h>
 /* more headers goes there */
-/* betty style doc for function main goes there */
-/* main - serves as the entry point for the program */
-/* Return: number if positive, zero or negative */
 
+/* betty style doc for function main goes there */
+
+/**
+* main - serves as the entry point for the program
+*Return: Returns 0, positive or negative number
+*/
 int main(void)
 {
 
