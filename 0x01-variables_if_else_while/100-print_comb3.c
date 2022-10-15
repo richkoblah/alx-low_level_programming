@@ -1,11 +1,9 @@
 #include <stdio.h>
-
 /**
    * main - Inventing is a combination of brains and materials.
    *
   *Return: Always 0.
  */
-
 
 int main(void)
 {
@@ -22,11 +20,8 @@ int main(void)
 				continue;
 			putchar(',');
 			putchar(' ');
-
 		}
-
 		putchar('\n');
-
 		return (0);
 	}
 }
