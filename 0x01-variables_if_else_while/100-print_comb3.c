@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
    * main - Inventing is a combination of brains and materials.
    *
@@ -21,7 +22,7 @@ int main(void)
 			putchar(',');
 			putchar(' ');
 		}
+	}
 		putchar('\n');
 		return (0);
-	}
- }
+}
