@@ -37,5 +37,3 @@ void times_table(void)
 		_putchar('\n');
 	}
 }
-				
-
