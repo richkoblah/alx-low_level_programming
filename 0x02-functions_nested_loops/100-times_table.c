@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 /**
   * print_times_table - Prints a multiplication table up to parameter
   * @n: the number to be treated (0 < n <= 15)
