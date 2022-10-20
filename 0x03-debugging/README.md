@@ -1,1 +1,1 @@
-Copy this main file. Comment out (don’t delete it!)
+This program prints the largest of three integers
