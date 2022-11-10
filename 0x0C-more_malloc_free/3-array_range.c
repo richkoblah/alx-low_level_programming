@@ -2,7 +2,7 @@
  * File: 3-array_range.c
  */
 
-#include "mainn.h"
+#include "main.h"
 #include <stdlib.h>
 
 /**
